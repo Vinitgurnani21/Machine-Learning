@@ -1,5 +1,5 @@
 # Machine-Learning
-  Here, the Universal_ML.ipynb file contains the following topics.
+  Here, the **Universal_ML.ipynb** file contains the following topics.
 
 - Starts from recalling the key steps of Exploratory Data Analysis (EDA).
 - Linear Regression (simple LR, multiple LR).
